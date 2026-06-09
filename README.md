@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hallo, ich bin Patrik Janßen 👋
 
-<!--
-**PatrikJanssen-dev/PatrikJanssen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
 
-Here are some ideas to get you started:
+Ich bin angehender Softwareentwickler mit Schwerpunkt auf Java, Python und Webentwicklung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nach meiner Weiterbildung zum Geprüften Informatiker habe ich mich intensiv mit Softwareentwicklung, objektorientierter Programmierung und modernen Webtechnologien beschäftigt.
+
+Aktuell erweitere ich mein Portfolio durch eigene Softwareprojekte und suche den Einstieg als Junior Software Developer.
+
+## Technologien
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- JavaFX
+- Git & GitHub
+
+## Aktuelle Projekte
+
+- Kundenverwaltung (Java)
+- Aufgabenplaner (Java)
+- Webprojekte
+- Eigene Softwarelösungen
+
+## Website
+
+🌐 https://janssendigital.de
+
+## Ziel
+
+Mein Ziel ist die Mitarbeit an professionellen Softwareprojekten als Junior Entwickler und die kontinuierliche Weiterentwicklung meiner Programmierkenntnisse.
