@@ -1,34 +1,77 @@
 # Hallo, ich bin Patrik Janßen 👋
 
+💻 *Junior Java Entwickler | Softwareentwickler aus Niedersachsen*
+
+---
+
 ## Über mich
 
-Ich bin angehender Softwareentwickler mit Schwerpunkt auf Java, Python und Webentwicklung.
+Nach über 11 Jahren Berufserfahrung in einem technischen Umfeld habe ich mich bewusst für den Weg in die Softwareentwicklung entschieden. Durch eine mehrjährige Weiterbildung zum *Geprüften Informatiker* sowie zahlreiche eigenständig entwickelte Projekte habe ich fundierte Kenntnisse in der Java-Entwicklung aufgebaut.
 
-Nach meiner Weiterbildung zum Geprüften Informatiker habe ich mich intensiv mit Softwareentwicklung, objektorientierter Programmierung und modernen Webtechnologien beschäftigt.
+Meine Leidenschaft liegt darin, Probleme zu analysieren und durch saubere, praxisnahe Softwarelösungen zu lösen. Besonders begeistert mich die Entwicklung von Anwendungen mit Java – von der Konzeption über die Umsetzung bis hin zur kontinuierlichen Verbesserung.
 
-Aktuell erweitere ich mein Portfolio durch eigene Softwareprojekte und suche den Einstieg als Junior Software Developer.
+Ich arbeite mich schnell in neue Technologien ein, lerne gerne dazu und entwickle meine Fähigkeiten kontinuierlich weiter. Aktuell suche ich eine Position als *Junior Java Entwickler*, um meine Kenntnisse in einem professionellen Umfeld einzubringen und weiter auszubauen.
 
-## Technologien
+---
 
+## 🛠️ Technische Kenntnisse
+
+### Programmiersprachen
 - Java
 - Python
-- HTML
-- CSS
-- JavaScript
+
+### Softwareentwicklung
+- Objektorientierte Programmierung (OOP)
+- Clean Code
+- Debugging & Fehleranalyse
+- Software Engineering
+
+### Technologien & Tools
 - JavaFX
+- FXML
+- Git
+- GitHub
+- Linux
+- Visual Studio Code
+
+### Weitere Kenntnisse
+- Agile Arbeitsweisen
+- Technische Dokumentation
+- Schnelle Einarbeitung in neue Technologien
+
+---
+
+## 🚀 Projekte
+
+### 🎮 Pfad der Geheimnisse
+Ein eigenständig entwickeltes JavaFX-Spiel mit grafischer Benutzeroberfläche.
+
+*Verwendete Technologien:*
+- Java
+- JavaFX
+- FXML
+- CSS
 - Git & GitHub
 
-## Aktuelle Projekte
+*Umgesetzte Inhalte:*
+- Objektorientierte Programmierung
+- Entwicklung und Erweiterung von Spiellogiken
+- Ereignissteuerung und Benutzerinteraktion
+- Entwicklung grafischer Benutzeroberflächen
+- Fehleranalyse und kontinuierliche Optimierung
 
-- Kundenverwaltung (Java)
-- Aufgabenplaner (Java)
-- Webprojekte
-- Eigene Softwarelösungen
+---
 
-## Website
+## 💡 Was mich auszeichnet
 
-🌐 https://janssendigital.de
+- Hohe Lernbereitschaft und schnelle Einarbeitung in neue Technologien
+- Analytisches Denkvermögen und strukturierte Problemlösung
+- Eigenständige Entwicklung praxisnaher Softwareprojekte
+- Motivation zur kontinuierlichen fachlichen und persönlichen Weiterentwicklung
+- Zuverlässige und strukturierte Arbeitsweise
 
-## Ziel
+---
 
-Mein Ziel ist die Mitarbeit an professionellen Softwareprojekten als Junior Entwickler und die kontinuierliche Weiterentwicklung meiner Programmierkenntnisse.
+## 📫 Kontakt
+
+📧 E-Mail: patrik.janssen@web.de
